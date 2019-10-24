@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Implicit Intent</string>
+
+    <string name="edittext_uri">Enter the URL of the website</string>
+    <string name="button_uri">Open Website</string>
+
+    <string name="edittext_loc">Enter the name of the location</string>
+    <string name="button_loc">Open Location</string>
+
+    <string name="edittext_share">Enter your text here</string>
+    <string name="button_share">Share This Text</string>
+</resources>
